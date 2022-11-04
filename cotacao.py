@@ -10,3 +10,6 @@ print(cotacao_petr4)
 
 cotacao_petr4["Close"].plot(figsize=(15, 10))  # ["xxxx"] chose the column to display on graph
 plt.show()
+
+
+# To do: try to upgrade this code using automated candlestick strategy.
